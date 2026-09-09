@@ -4,7 +4,7 @@ pubDate: 2026-09-09
 description: "On journals, burning things, and the terrible strain of old experiences."
 ---
 
-Book club was wrapping up, and we were reflecting on the themes of writing and memory. We landed on the topic of journaling, and In a moment of vulnerability I mentioned that I throw out my journals after I write them. I was met with gasps, tears, stones, and damnation. I would recall a quip from that night's journal entry, but those thoughts are rotting in [Morrisville, PA](https://www.manhattanswab.org/nyc-waste-exports) while cursing the cruelty of their creator.
+Book club was wrapping up, and we were reflecting on the themes of writing and memory. We landed on the topic of journaling, and In a moment of vulnerability I mentioned that I throw out my journals after I write them. I was met with gasps, tears, stones, and damnation. I would recall a quip from that night's journal entry, but those thoughts are rotting in <a href="https://www.manhattanswab.org/nyc-waste-exports" target="_blank" rel="noopener">Morrisville, PA</a> while cursing the cruelty of their creator.
 
 In Marilynne Robinson's *Gilead*, John Ames notes that he has written enough over 2,250 sermons, "Then I've written two hundred twenty-five books, which puts me up there with Augustine and Calvin for quantity. That's amazing". Fearing the burden that he may leave his family upon his impending death, he asks his wife to burn them all.
 
