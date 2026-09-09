@@ -6,7 +6,7 @@ description: "On journals, burning things, and the terrible strain of old experi
 
 Book club was wrapping up, and we were reflecting on the themes of writing and memory. We landed on the topic of journaling, and in a moment of vulnerability I mentioned that I throw out my journals after I write them. I was met with gasps, tears, stones, and damnation. I would recall a quip from that night's journal entry, but those thoughts are rotting in <a href="https://www.manhattanswab.org/nyc-waste-exports" target="_blank" rel="noopener">Morrisville, PA</a> while cursing the cruelty of their creator.
 
-In Marilynne Robinson's *Gilead*, Reverend John Ames notes that he has written over 2,250 sermons, "Then I've written two hundred twenty-five books, which puts me up there with Augustine and Calvin for quantity. That's amazing". Fearing the burden that he may leave his family upon his impending death, he asks his wife to burn them all.
+In Marilynne Robinson's *Gilead*, Reverend John Ames notes that he has written over 2,250 sermons, "Then I've written two hundred twenty-five books, which puts me up there with Augustine and Calvin for quantity. That's amazing". Greater than his amazement is his fear that the overflowing boxes will be a burden to his family upon his impending death. He asks his wife to burn them all.
 
 Or consider the physical burden that William Ainsworth puts into both a failed literary career in and his home's structural integrity in Zadie Smith's *The Fraud*. Young repairman Joseph isn't the brightest boy, but he intuits better than the Great Writer as he stares into the gaping hole in the second floor study: "The sheer weight of literature you've got here, well, that will put a terrible strain on a house, Mrs Touchet. Terrible strain."
 
