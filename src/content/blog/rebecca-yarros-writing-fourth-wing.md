@@ -4,7 +4,7 @@ pubDate: 2026-09-09
 description: "I listened to 7 hours of the Fourth Wing audiobook for 3 consecutive days and it has done irreparable damage to my psyche."
 ---
 
-I listened to 7 hours of the Fourth Wing audiobook for 3 consecutive days and it has done irreparable damage to my psyche. This is how I imaging the dragon queen gears up for a night of immensely profitable writing. I apologize in advance.
+I listened to 7 hours of the Fourth Wing audiobook for 3 consecutive days and it has done irreparable damage to my psyche. This is how I imagine the dragon queen gears up for a night of immensely profitable writing. I apologize in advance.
 
 ---
 
