@@ -12,7 +12,7 @@ One arm in, then the next. Now the legs, she thinks, not before softly chiding h
 
 The QVC is on a light murmur, anything louder and her husband will be forced to relive his 6 voluntary tours overseas. Kuwait. Now that, she ponders with a hint of jealousy, is a name for a rebellious southern territory.
 
-Slowly, she lifts the clamshell lid of her M1 MacBook Air, its wedge shape dwarfing that of its smaller cousin, the slice of Wegmans-brand Brie sitting tastefully on the coaster. She should really use a plate, but the life of a military wife is nothing if not frugal, and old habits die hard.
+Slowly, she lifts the clamshell lid of her M1 MacBook Air, its wedge shape dwarfing that of its smaller cousin, the slice of Kirkland Brie sitting tastefully on the coaster. She should really use a plate, but the life of a military wife is nothing if not frugal, and old habits die hard.
 
 But now she is reminded by the flashing lights of QVC that life is no longer so precarious. The scarves, the lotion, the non-stick pans always felt like a mirage of an impossible life. Ironically (she has given up on the correct usage of irony), her beasts of fire have brought her to an oasis in the desert.
 
