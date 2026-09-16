@@ -1,7 +1,7 @@
 ---
 title: "A place to put things"
 pubDate: 2026-09-16
-description: "TODO"
+description: "On decision paralysis"
 ---
 
 My room in my Brooklyn apartment is very small. I have over-engineered the storage capabilities, and yet things still overflow.
