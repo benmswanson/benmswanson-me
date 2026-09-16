@@ -1,0 +1,79 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+function formatDate(date: Date) {
+  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+}
+---
+
+<Base title="Posts - Ben Swanson">
+  <h1>Posts</h1>
+
+  {posts.length > 0 ? (
+    <ul class="post-list">
+      {posts.map((post) => (
+        <li class="post-item">
+          <a href={`/posts/${post.id}`} class="post-title">{post.data.title}</a>
+          <span class="post-date">{formatDate(post.data.pubDate)}</span>
+          {post.data.description && (
+            <p class="post-description">{post.data.description}</p>
+          )}
+        </li>
+      ))}
+    </ul>
+  ) : (
+    <p class="empty">Nothing here yet. Check back soon.</p>
+  )}
+</Base>
+
+<style>
+  h1 {
+    margin-bottom: 2rem;
+  }
+
+  .post-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.75rem;
+  }
+
+  .post-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  .post-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  .post-title:hover {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  .post-date {
+    font-size: 0.825rem;
+    color: var(--text-muted);
+  }
+
+  .post-description {
+    margin: 0.25rem 0 0;
+    font-size: 0.925rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+
+  .empty {
+    color: var(--text-muted);
+  }
+</style>

@@ -10,7 +10,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "generate-types": "wrangler types"
+    "generate-types": "wrangler types",
+    "sync:obsidian": "node scripts/sync-from-obsidian.mjs"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^14.3.1",
