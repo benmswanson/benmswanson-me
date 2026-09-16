@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-// Syncs blog posts from the Obsidian vault's benmswanson.me/ folder into src/content/blog/.
+// Syncs blog posts from the Obsidian vault's benmswanson.me/Posts/ folder into
+// src/content/blog/. Anything in benmswanson.me/Drafts/ is never synced.
 //
 // Usage:
 //   node scripts/sync-from-obsidian.mjs              # sync every post in the vault
@@ -16,7 +17,7 @@ import path from "node:path";
 const VAULT_DIR =
   process.env.OBSIDIAN_VAULT_DIR ||
   "/Users/benswanson/Library/Mobile Documents/com~apple~CloudDocs/Obsidian/Personal/Personal";
-const VAULT_POSTS_DIR = path.join(VAULT_DIR, process.env.OBSIDIAN_VAULT_SUBDIR || "benmswanson.me");
+const VAULT_POSTS_DIR = path.join(VAULT_DIR, process.env.OBSIDIAN_VAULT_SUBDIR || "benmswanson.me", "Posts");
 const BLOG_DIR = path.join(import.meta.dirname, "..", "src", "content", "blog");
 
 function slugify(title) {
@@ -99,7 +100,7 @@ async function main() {
 
   if (!existsSync(VAULT_POSTS_DIR)) {
     console.error(`Vault Posts folder not found: ${VAULT_POSTS_DIR}`);
-    console.error("Set OBSIDIAN_VAULT_DIR to override the vault location.");
+    console.error("Set OBSIDIAN_VAULT_DIR/OBSIDIAN_VAULT_SUBDIR to override the vault location.");
     process.exit(1);
   }
 
